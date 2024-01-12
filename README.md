@@ -13,5 +13,6 @@ Explore:
 - [Government](Government/README.md)
 - [Home](Home/README.md)
 - [Game](Game/README.md)
+- [Fun](Fun/README.md)
 
 
