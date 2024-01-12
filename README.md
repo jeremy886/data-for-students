@@ -8,9 +8,10 @@ This repos is used to collect datasets that are meaningful for students in Austr
 
 Explore:
 
-- [School][README.md]
-- [Car][README.md]
-- [Government][README.md]
-- [Home][README.md]
-- [Game][README.md]
+- [School](README.md)
+- [Car](README.md)
+- [Government](README.md)
+- [Home](README.md)
+- [Game](README.md)
+
 
